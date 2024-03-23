@@ -1,0 +1,11 @@
+E:\Test Pooya\Test Pooya\bin\Debug\Test Pooya.exe.config
+E:\Test Pooya\Test Pooya\bin\Debug\Test Pooya.exe
+E:\Test Pooya\Test Pooya\bin\Debug\Test Pooya.pdb
+E:\Test Pooya\Test Pooya\obj\Debug\Test Pooya.csproj.AssemblyReference.cache
+E:\Test Pooya\Test Pooya\obj\Debug\Test_Pooya.Form1.resources
+E:\Test Pooya\Test Pooya\obj\Debug\Test_Pooya.Properties.Resources.resources
+E:\Test Pooya\Test Pooya\obj\Debug\Test Pooya.csproj.GenerateResource.cache
+E:\Test Pooya\Test Pooya\obj\Debug\Test Pooya.csproj.CoreCompileInputs.cache
+E:\Test Pooya\Test Pooya\obj\Debug\Test Pooya.exe
+E:\Test Pooya\Test Pooya\obj\Debug\Test Pooya.pdb
+E:\Test Pooya\Test Pooya\obj\Debug\Test_Pooya.AnalyzeForm.resources
